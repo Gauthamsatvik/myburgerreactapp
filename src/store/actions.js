@@ -1,0 +1,2 @@
+export const ADD_INGRIDENT = 'ADD_INGRIDENT';
+export const REMOVE_INGRIDENT = 'REMOVE_INGRIDENT';
